@@ -1,0 +1,5 @@
+com\gft\spingboot\entity\User.class
+com\gft\spingboot\service\UserService.class
+com\gft\spingboot\controller\UserController.class
+com\gft\spingboot\dao\UserDao.class
+com\gft\spingboot\application\Application.class
